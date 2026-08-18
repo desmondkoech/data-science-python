@@ -1,0 +1,1 @@
+﻿numpy\npandas\matplotlib\scikit-learn\njupyter\n
